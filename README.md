@@ -21,7 +21,7 @@
 ## Libraries
 
 - [3D Force-Directed Graph](https://github.com/vasturiano/3d-force-graph) - A web component to represent a graph data structure in a 3-dimensional space using a force-directed iterative layout.
-- [The <model-viewer> project](https://modelviewer.dev/) - A component to easily display interactive 3D models on the web and in AR.
+- [The model-viewer project](https://modelviewer.dev/) - A component to easily display interactive 3D models on the web and in AR.
 
 ## Applications
 
