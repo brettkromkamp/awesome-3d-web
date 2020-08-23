@@ -25,7 +25,8 @@
 
 ## Applications
 
-- [Blender](https://www.blender.org/) - Blender is a free and open source 3D creation suite.
+- [Blender](https://www.blender.org/) - A free and open source 3D creation suite.
+- [deck.gl](https://deck.gl/) - A WebGL-powered framework for visual exploratory data analysis of large datasets.
 
 ## Tools
 
@@ -34,7 +35,10 @@
 
 ## Articles
 
+- [WebGL2 Fundamentals, a set of articles that teach WebGL2 from basic principles](https://webgl2fundamentals.org/)
 - [Visualizing Graphs in 3D with WebGL](https://medium.com/neo4j/visualizing-graphs-in-3d-with-webgl-9adaaff6fe43)
+- [WebGL and three.js: texture mapping](https://www.solutiondesign.com/blog/-/sdg/webgl-and-three-js-texture-mappi-1/19147)
+- [Using WebGL and PWA to build an adaptive game for touch, mouse and VR devices](https://www.davrous.com/2018/08/14/using-webgl-and-pwa-to-build-an-adaptative-game-for-touch-mouse-and-vr-devices/)
 
 ## Miscellaneous
 
