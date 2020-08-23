@@ -37,4 +37,4 @@
 
 ## Miscellaneous
 
-- [glTF Runtime 3D Asset Deliver](https://www.khronos.org/gltf/) - As a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications.
+- [glTF Runtime 3D Asset Deliver](https://www.khronos.org/gltf/) - A royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications.
